@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.14.0a2
 LABEL maintainer="Hugging Face"
 
 RUN apt update
